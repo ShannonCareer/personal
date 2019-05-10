@@ -1,4 +1,4 @@
 # personal
 Personal projects outside of class; Self-driven learning;
-01APR19 Various subjects that interest me combined into programming
-
+Various subjects that interest me combined into programming
+10May19: Gaining interest in JavaScript
